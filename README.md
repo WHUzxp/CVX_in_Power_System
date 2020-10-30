@@ -1,6 +1,1 @@
-# CVX_in_Power_System
-MATLAB的CVX工具箱的一些尝试
-复刻了一篇Applied energy的论文
-以及利用二阶锥实现的配电网最优潮流和重构
-CVX中二阶锥采用洛伦兹锥的定义还挺有意思的
-不过个人感觉CVX不如YALMIP好用~
+MATLAB的CVX工具箱的一些尝试 复刻了一篇Applied energy的论文 以及利用二阶锥实现的配电网最优潮流和重构 CVX中二阶锥采用洛伦兹锥的定义还挺有意思的 不过个人感觉CVX不如YALMIP好用~
